@@ -1,0 +1,6 @@
+GUI.c:17:6:GUI_page_main	16	static
+GUI.c:40:6:GUI_touch_main	24	static
+GUI.c:112:6:GUI_page_malovani	16	static
+GUI.c:126:6:GUI_touch_malovani	16	static
+GUI.c:166:6:GUI_touch	16	static
+GUI.c:178:6:GUI_zmena	24	static

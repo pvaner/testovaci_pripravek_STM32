@@ -1,0 +1,17 @@
+myTFT9341.c:287:6:TFT9341_SendCommand	16	static
+myTFT9341.c:293:6:TFT9341_SendData	16	static
+myTFT9341.c:299:13:TFT9341_WriteData	24	static
+myTFT9341.c:310:6:TFT9341_Init	40	static
+myTFT9341.c:452:6:TFT9341_reset	8	static
+myTFT9341.c:459:13:TFT9341_SetAddrWindow	32	static
+myTFT9341.c:479:6:TFT9341_FillScreen	24	static
+myTFT9341.c:496:6:TFT9341_FillRect	48	static
+myTFT9341.c:534:6:TFT9341_DrawPixel	24	static
+myTFT9341.c:543:6:TFT9341_DrawCircle	48	static
+myTFT9341.c:576:10:TFT9341_RandColor	8	static
+myTFT9341.c:581:6:TFT9341_SetRotation	16	static
+myTFT9341.c:619:9:TFT9341_getRotation	4	static
+myTFT9341.c:625:6:TFT9341_drawChar	40	static
+myTFT9341.c:669:6:TFT9341_printText	48	static
+myTFT9341.c:679:6:TFT9341_DrawLine	56	static
+myTFT9341.c:713:6:TFT9341_DrawRect	32	static

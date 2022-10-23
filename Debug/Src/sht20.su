@@ -1,0 +1,8 @@
+sht20.c:11:6:SHT20_Init	16	static
+sht20.c:17:6:SHT20_reset	24	static
+sht20.c:23:16:SHT20_read_user_reg	32	static
+sht20.c:30:6:SHT2x_CheckCrc	24	static
+sht20.c:51:7:SHT2x_CalcTemperatureC	32	static
+sht20.c:60:7:SHT2x_CalcRH	32	static
+sht20.c:70:7:SHT2x_MeasureHM	48	static
+sht20.c:96:6:SHT20_GetValue	8	static

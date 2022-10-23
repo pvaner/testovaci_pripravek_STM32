@@ -1,0 +1,6 @@
+my_lib_gui.c:21:6:GUI_page_main	16	static
+my_lib_gui.c:45:6:GUI_touch_main	24	static
+my_lib_gui.c:117:6:GUI_page_malovani	16	static
+my_lib_gui.c:130:6:GUI_touch_malovani	16	static
+my_lib_gui.c:169:6:GUI_touch	16	static
+my_lib_gui.c:181:6:GUI_zmena	24	static

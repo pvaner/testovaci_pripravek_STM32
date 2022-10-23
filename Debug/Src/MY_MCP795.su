@@ -1,0 +1,14 @@
+MY_MCP795.c:51:16:spi_acc_send_byte	32	static
+MY_MCP795.c:66:16:rtc_send_byte	16	static
+MY_MCP795.c:73:16:rtc_read_status_reg	16	static
+MY_MCP795.c:89:13:rtc_write_byte_sram	16	static
+MY_MCP795.c:103:13:rtc_write_blobk_sram	16	static
+MY_MCP795.c:125:16:rtc_read_byte_sram	24	static
+MY_MCP795.c:148:17:rtc_read_block_sram	32	static
+MY_MCP795.c:178:13:rtc_enable_on_board_oscillator	24	static
+MY_MCP795.c:213:16:rtc_bcd_encoding	16	static
+MY_MCP795.c:223:16:rtc_bcd_decoding	16	static
+MY_MCP795.c:238:6:rtc_init	8	static
+MY_MCP795.c:266:6:rtc_set_time	32	static
+MY_MCP795.c:320:6:rtc_update_time	16	static
+MY_MCP795.c:339:13:rtc_get_time	4	static
